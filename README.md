@@ -1,4 +1,6 @@
 Mysh
 ====
 
-Operating Systems project ucf
+
+
+Operating Systems homework project for ucf that simulates the terminal
